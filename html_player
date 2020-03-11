@@ -1,0 +1,30 @@
+<head>
+</head>
+
+<body>
+
+    <div class="player">
+        <progress id='timer' max='100' value='0'><span>0</span>% played</progress>
+        <video id="video" src="https://www.w3schools.com/html/mov_bbb.mp4"></video>
+
+    </div>
+    <div class="boutons">
+        <img id="play" class="btn" src="https://i.pinimg.com/originals/48/40/7f/48407f1ad5508af3c82a5234fa1b3030.png" />
+        <img id="pause" class="btn" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Raised_Hand_Emoji_Icon_ios10_1024x1024.png?v=1571606092" />
+        <img id="restart" class="btn" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Hear_No_Evil_Monkey_Emoji_grande.png?v=1571606065" />
+        <input class="volume" type="range" min="0" max="1" step="0.01" value="100">
+
+    </div>
+
+    </div>
+    <div class="background">
+        <div class="cercle_01"></div>
+        <div class="cercle_02"></div>
+        <div class="cercle_03"></div>
+        <div class="cercle_04"></div>
+        <div class="cercle_05"></div>
+        <img class="bottle01" src="https://pngimage.net/wp-content/uploads/2018/05/drink-logo-png-1.png" />
+        <img class="bottle02" src="https://pngimage.net/wp-content/uploads/2018/05/drink-logo-png-1.png" />
+    </div>
+
+</body>
